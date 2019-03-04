@@ -1,0 +1,7 @@
+[package]
+name = "memblock"
+version = "0.1.0"
+authors = ["Momoka"]
+edition = "2018"
+
+[dependencies]
