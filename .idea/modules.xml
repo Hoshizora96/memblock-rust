@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/memblock.iml" filepath="$PROJECT_DIR$/.idea/memblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/memblock-rust.iml" filepath="$PROJECT_DIR$/.idea/memblock-rust.iml" />
     </modules>
   </component>
 </project>
